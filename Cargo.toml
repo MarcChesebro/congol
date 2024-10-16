@@ -1,0 +1,12 @@
+[package]
+name = "congol"
+version = "0.1.0"
+authors = ["Marc Chesebro <marc.chesebro@gmail.com>"]
+edition = "2021"
+description = "Conway's game of life written in Rust."
+license = "MIT"
+
+repository = "https://github.com/MarcChesebro/congol"
+readme = "./README.md"
+
+[dependencies]
